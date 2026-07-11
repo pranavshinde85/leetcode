@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/pranavshinde85/leetcode/tree/master/0344-reverse-string) |
+| [2390-removing-stars-from-a-string](https://github.com/pranavshinde85/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pranavshinde85/leetcode/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/pranavshinde85/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/pranavshinde85/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
