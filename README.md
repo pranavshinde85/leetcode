@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0238-product-of-array-except-self](https://github.com/pranavshinde85/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/pranavshinde85/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/pranavshinde85/leetcode/tree/master/0283-move-zeroes) |
+| [0735-asteroid-collision](https://github.com/pranavshinde85/leetcode/tree/master/0735-asteroid-collision) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -51,9 +52,11 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/pranavshinde85/leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/pranavshinde85/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/pranavshinde85/leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/pranavshinde85/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
