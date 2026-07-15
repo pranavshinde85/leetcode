@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [0633-sum-of-square-numbers](https://github.com/pranavshinde85/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranavshinde85/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranavshinde85/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
