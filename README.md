@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0633-sum-of-square-numbers](https://github.com/pranavshinde85/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranavshinde85/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranavshinde85/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0344-reverse-string](https://github.com/pranavshinde85/leetcode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/pranavshinde85/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/pranavshinde85/leetcode/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0283-move-zeroes](https://github.com/pranavshinde85/leetcode/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/pranavshinde85/leetcode/tree/master/0735-asteroid-collision) |
 | [2540-minimum-common-value](https://github.com/pranavshinde85/leetcode/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0735-asteroid-collision](https://github.com/pranavshinde85/leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/pranavshinde85/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +85,9 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranavshinde85/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
