@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [2540-minimum-common-value](https://github.com/pranavshinde85/leetcode/tree/master/2540-minimum-common-value) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pranavshinde85/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [0633-sum-of-square-numbers](https://github.com/pranavshinde85/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranavshinde85/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranavshinde85/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -40,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0283-move-zeroes](https://github.com/pranavshinde85/leetcode/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/pranavshinde85/leetcode/tree/master/0735-asteroid-collision) |
 | [2540-minimum-common-value](https://github.com/pranavshinde85/leetcode/tree/master/2540-minimum-common-value) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pranavshinde85/leetcode/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Queue
 |  |
 | ------- |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/pranavshinde85/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/pranavshinde85/leetcode/tree/master/2540-minimum-common-value) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,10 +89,19 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranavshinde85/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
