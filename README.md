@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0007-reverse-integer](https://github.com/pranavshinde85/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [0633-sum-of-square-numbers](https://github.com/pranavshinde85/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranavshinde85/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranavshinde85/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranavshinde85/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0239-sliding-window-maximum](https://github.com/pranavshinde85/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/pranavshinde85/leetcode/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/pranavshinde85/leetcode/tree/master/0735-asteroid-collision) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranavshinde85/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2540-minimum-common-value](https://github.com/pranavshinde85/leetcode/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranavshinde85/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranavshinde85/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranavshinde85/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
