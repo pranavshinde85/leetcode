@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pranavshinde85/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [2540-minimum-common-value](https://github.com/pranavshinde85/leetcode/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pranavshinde85/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/pranavshinde85/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [0633-sum-of-square-numbers](https://github.com/pranavshinde85/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranavshinde85/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pranavshinde85/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/pranavshinde85/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/pranavshinde85/leetcode/tree/master/0344-reverse-string) |
