@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pranavshinde85/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/pranavshinde85/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/pranavshinde85/leetcode/tree/master/0020-valid-parentheses) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pranavshinde85/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranavshinde85/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/pranavshinde85/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranavshinde85/leetcode/tree/master/0344-reverse-string) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pranavshinde85/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavshinde85/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Number Theory
 |  |
