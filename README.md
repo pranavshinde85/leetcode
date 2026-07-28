@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0005-longest-palindromic-substring](https://github.com/pranavshinde85/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/pranavshinde85/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/pranavshinde85/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pranavshinde85/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/pranavshinde85/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pranavshinde85/leetcode/tree/master/0344-reverse-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranavshinde85/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/pranavshinde85/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranavshinde85/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavshinde85/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/pranavshinde85/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/pranavshinde85/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pranavshinde85/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
