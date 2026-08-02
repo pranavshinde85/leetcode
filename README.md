@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0012-integer-to-roman](https://github.com/pranavshinde85/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [0633-sum-of-square-numbers](https://github.com/pranavshinde85/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/pranavshinde85/leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranavshinde85/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranavshinde85/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0239-sliding-window-maximum](https://github.com/pranavshinde85/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/pranavshinde85/leetcode/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/pranavshinde85/leetcode/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/pranavshinde85/leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/pranavshinde85/leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranavshinde85/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2540-minimum-common-value](https://github.com/pranavshinde85/leetcode/tree/master/2540-minimum-common-value) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranavshinde85/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavshinde85/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/pranavshinde85/leetcode/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pranavshinde85/leetcode/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pranavshinde85/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
