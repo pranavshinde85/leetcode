@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0013-roman-to-integer](https://github.com/pranavshinde85/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/pranavshinde85/leetcode/tree/master/0242-valid-anagram) |
 | [2540-minimum-common-value](https://github.com/pranavshinde85/leetcode/tree/master/2540-minimum-common-value) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pranavshinde85/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pranavshinde85/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0344-reverse-string](https://github.com/pranavshinde85/leetcode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranavshinde85/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/pranavshinde85/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pranavshinde85/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pranavshinde85/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pranavshinde85/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pranavshinde85/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
